@@ -1,0 +1,4 @@
+name: utrcall-augustus
+channels: [conda-forge, bioconda]
+dependencies:
+  - augustus=3.5.0

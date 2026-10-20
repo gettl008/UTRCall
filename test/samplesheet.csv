@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2,bam,strandedness
+libA,data/libA_R1.fastq.gz,data/libA_R2.fastq.gz,,reverse
+libB,data/libB_R1.fastq.gz,data/libB_R2.fastq.gz,,reverse
+libC,,,data/libC.bam,forward

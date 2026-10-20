@@ -1,0 +1,7 @@
+name: utrcall-core
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.11
+  - samtools=1.21
+  - star=2.7.11b
+  - gffread=0.12.7

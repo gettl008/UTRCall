@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2,bam,strandedness
+WT_rep1,reads/WT_rep1_R1.fastq.gz,reads/WT_rep1_R2.fastq.gz,,reverse
+WT_rep2,,,bams/WT_rep2.sortedByCoord.bam,reverse
+KO_rep1,,,bams/KO_rep1.sortedByCoord.bam,forward

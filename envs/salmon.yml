@@ -1,0 +1,6 @@
+name: utrcall-salmon
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.11
+  - salmon=2.7.0
+  - gffread=0.12.7
